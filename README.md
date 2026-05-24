@@ -76,7 +76,7 @@ The game works using:
 Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Rock_Paper_Scissor.git
+git clone https://github.com/Komala-L/Rock_Paper_Scissor.git
 ```
 
 Open the folder:
